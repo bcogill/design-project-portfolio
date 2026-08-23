@@ -25,7 +25,7 @@ The stapler's primary mechanical behavior is governed by the principle of static
 For a lever in static equilibrium the equation is:
 (Fin)(Lin) = (Fout)(Lout)
 
-Where: 
+**Where:**
 
 Fin = The input force that is being applied by the user of the stapler. 
 
@@ -41,15 +41,15 @@ One assumption that I have thought of was that the pivot (hinge) is frictionless
 
 **C). Components**
 
-Top Arm (Lever) 
+**Top Arm (Lever)** 
 <img width="3000" height="2000" alt="20260821_144542" src="https://github.com/user-attachments/assets/59ec75f1-062d-4d52-87dd-94a59e71b26f" />
 Function: The long handle increases the distance from the pivot, which gives the stapler mechanical advantage. This lets a small input force create a larger force to drive the staple.
 
-Metal Base 
+**Metal Base**
 <img width="2000" height="3000" alt="20260821_144609" src="https://github.com/user-attachments/assets/77f28c2e-38c4-46a2-9cb4-60380784d1c9" />
 Function: The flat base was designed specifically to lineup the top bar with the base letting it support the paper and keep the staple aligned. The anvil bends the staple legs after they pass through the paper.
 
-Hinge (connecting base and top arm)
+**Hinge (connecting base and top arm)**
 <img width="3000" height="2000" alt="20260821_144552" src="https://github.com/user-attachments/assets/0151665a-fa9b-4bce-bda2-9f34fac0c802" />
 Function: The round hinge allows the top arm to rotate. Its position creates the pivot point that makes the top arm work, keeping the base still while letting the user to input force on the top arm.
 
@@ -73,23 +73,14 @@ One design decision that I stuck out to me was the long, curved shape of the top
 
    The homepage plays a major role in determining how someone views a website or portfolio. Since it is usually the first thing a visitor sees, its appearance can strongly influence whether they continue explore and look more in depth. A cluttered, poorly designed, or uninspiring homepage can cause visitors to lose interest quickly. Most people naturally notice the largest words, pictures, and main headings before focusing on the smaller details. Because of this, a good homepage should clearly communicate the purpose of the site, make navigation simple, and give visitors a clear understanding of what they will find throughout the rest of the website or portfolio.
 
-2.  One Intentional Customization : 
+**2.  One Intentional Customization:** 
 
+One intentional customization that I decided to incorporate into my portfolio, are bold titling for all the information sections throughout my portfolio. Letting the headers pop out a little more to give any visitors the impression that this should be something worth reading or just taking a glance at. Leaving these headers plain and not just floating with the other text just makes the sections look less meaningful. Even those this a small change, I believe that visitors will be more open to read a text that has some sort of character. 
 
-
-3.  Your Documentation Standard:
+**3.  Your Documentation Standard:**
 
 The Documentation Standard that I will set for the future assignment entries will be that the quality of all future assignments/projects will be handled with precision and will be held to a professional standard that meets the criteria of said precision. 
 
-
-
-
-
-
-
-
-
-
-
 ## Communicate
+
 Please refer to the About Me Section

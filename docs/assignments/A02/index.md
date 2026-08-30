@@ -41,11 +41,18 @@ Design a light weight planar truss using A500 structural steel (Some software wi
 **(ii,iii,iV)**
 <img width="2409" height="3214" alt="Scan_20260829_124526 (1)" src="https://github.com/user-attachments/assets/62ad88ec-b8ec-4057-bd19-c421b527b509" />
 
-3a.)  For part 3b we are told to determine the cross-sectional area of the connecting pins which are made of hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in3 and to assume that the elements that are in compression won’t fail in buckling. We must all determine the cross sectional are of the pins and design a single shear connection with a safety factor of 4. I began once again by listing the knowns and unknowns for the following section. The FBD is a very simple design letting someone know what forces are acting on the shear connection. Lastly, I solved for the minimum cross sectional area symbolically and numerically, which let me determine the total combined weight of all the pins. 
+**3a.) Determine the cross-sectional area of the connecting pins which are made of hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in3. Assume that elements that are in compression won’t fail in buckling.**
+
+For part 3b we are told to determine the cross-sectional area of the connecting pins which are made of hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in3 and to assume that the elements that are in compression won’t fail in buckling. We must all determine the cross sectional are of the pins and design a single shear connection with a safety factor of 4. I began once again by listing the knowns and unknowns for the following section. The FBD is a very simple design letting someone know what forces are acting on the shear connection. Lastly, I solved for the minimum cross sectional area symbolically and numerically, which let me determine the total combined weight of all the pins. 
 
 <img width="2409" height="3000" alt="Scan_20260829_124540 (1)" src="https://github.com/user-attachments/assets/b1f00206-9202-4634-8f9c-3f4fe6c117df" />
 
+**5.a) Detail engineering lesson learned and be specific. Eliminate words like good and bad from this section. Be more articulate.**
 
+For the engineering lesson, I believe this is one of the more benefitable assignment out of two so far, we were given a problem and told to tackle it in many different ways like the calculations, where between solving certain elements symbolically and numerically. The assignment lets you lean more into the math and more of the design process side of engineering letting us use a CAD system to create something with meaning. I definitely learned what it takes to design a truss system from a given blueprint, work through it, learn new things that make my work more meaningful. I wanted to close this assignment and engineering lesson by thinking about the process and what you can create with a simple description and some given numbers. 
+
+
+This assignment took me 15 hours to complete. 
 
 
 

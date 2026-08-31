@@ -23,6 +23,8 @@ Design a light weight planar truss using A500 structural steel (Some software wi
 
 <img width="807" height="345" alt="Screenshot 2026-08-29 140409" src="https://github.com/user-attachments/assets/3fc821c4-da21-4901-8051-29f50165e639" />
 
+## Decide
+
 **2. Design the truss structure using the parameters in Figure #1**
 
 2A.) For the first part of this assignment/project we are told to design a truss geometry that we want to calculate all the internal forces symbolically and numerically. Below is a hand drawn design that I have chosen for this assignment based off the given truss system image shown in the description of this assignment. In the image, I have created FBD's for every joint associated with my truss. I started out by sketching the FBD's and working through each of the joints symbolically, figuring out each ones internal forces making sure to mark them as Tension or Compression depending on if their values were either negative or positive. All of the symbolically solved values were then transformed as stated in the instructions of the assignment. In the second image I worked on the numerical part of this section, multiplying the applied forces of P=30kn to the symbolically solve internal forces while still including the tension and compression expression for every force.
@@ -31,6 +33,8 @@ Design a light weight planar truss using A500 structural steel (Some software wi
 <img width="2428" height="3220" alt="Scan_20260829_152052" src="https://github.com/user-attachments/assets/09276fcf-a993-46fa-97ff-aa6e0c0c32ac" />
 **(iV)**
 <img width="2424" height="2071" alt="Scan_20260829_124510 (1)" src="https://github.com/user-attachments/assets/8acf00ef-248c-4e4c-b805-1cd9e72e04fd" />
+
+## Analyze
 
 **2B.) Use the largest internal force to calculate the required cross-sectional area of the elements using a safety factor of 3.5, and the yield strength.**
 
@@ -56,21 +60,12 @@ Below is a image of the pin that was created for each of the joints for the asse
 
 <img width="1228" height="804" alt="Screenshot 2026-08-30 194446" src="https://github.com/user-attachments/assets/9d5f34c3-dfcc-4cc6-a80e-edefab02eec6" />
 
+Lastly, below is a image of the mass properties where it says that my mass is 2.3kg which doesn't make sense  based on my calculations but after I left the lab I had forgotten to change the material to match the assignment so the current mass is incorrect and should be corrected with a change in material. I apologize for the error and will focus on getting Solidwork's free license on my computer as soon as possible so I don't have to go through the struggle of using the mosaic lab as a last resort. 
 
-[Truss Assembly SoDesign.zip](https://github.com/user-attachments/files/31656792/Truss.Assembly.SoDesign.zip)
-
-
-
+<img width="468" height="736" alt="Screenshot 2026-08-30 194224" src="https://github.com/user-attachments/assets/13dd6743-aee3-4ffd-a709-4adca284851c" />
 
 
-
-
-
-
-
-
-
-
+**Click Here for The Truss Assembly File**[Truss Assembly SoDesign.zip](https://github.com/user-attachments/files/31656792/Truss.Assembly.SoDesign.zip)
 
 
 **5.a) Detail engineering lesson learned and be specific. Eliminate words like good and bad from this section. Be more articulate.**
@@ -79,15 +74,6 @@ For the engineering lesson, I believe this is one of the more benefitable assign
 
 
 This assignment took me 15 hours to complete. 
-
-
-
-
-## Analyze
-
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
 ## Communicate
 

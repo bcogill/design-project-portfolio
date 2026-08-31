@@ -65,7 +65,7 @@ Lastly, below is a image of the mass properties where it says that my mass is 2.
 <img width="468" height="736" alt="Screenshot 2026-08-30 194224" src="https://github.com/user-attachments/assets/13dd6743-aee3-4ffd-a709-4adca284851c" />
 
 
-**Click Here for The Truss Assembly File**[Truss Assembly SoDesign.zip](https://github.com/user-attachments/files/31656792/Truss.Assembly.SoDesign.zip)
+**Click Here for The Truss Assembly File**: [Truss Assembly SoDesign.zip](https://github.com/user-attachments/files/31656792/Truss.Assembly.SoDesign.zip)
 
 
 **5.a) Detail engineering lesson learned and be specific. Eliminate words like good and bad from this section. Be more articulate.**

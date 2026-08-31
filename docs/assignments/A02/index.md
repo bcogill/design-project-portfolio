@@ -57,6 +57,8 @@ Below is a image of the pin that was created for each of the joints for the asse
 <img width="1228" height="804" alt="Screenshot 2026-08-30 194446" src="https://github.com/user-attachments/assets/9d5f34c3-dfcc-4cc6-a80e-edefab02eec6" />
 
 
+[Truss Assembly SoDesign.zip](https://github.com/user-attachments/files/31656792/Truss.Assembly.SoDesign.zip)
+
 
 
 

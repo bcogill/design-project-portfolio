@@ -18,7 +18,8 @@ We are told to design a bar which needs to have a circular cross section that ha
 
 **(a,b):** After reading through all the given parts of the assignment, I started by choosing my Cross Sectional Area. I decided to go with a base of 1.0in and a height of 0.25in, this will make sure that I am within that 300lbf to 500lbf direct load range. Below is a image of my calculations where I solved for the parametric length for my CAD model length, where I ended on a length of 38.25 inches. I decided to do a deflection check as well to make sure that was totally within the 0.009in max axial deflection range and that I would have no problems of worrying about the stress being to close or even beyond the bars limit.
 
-<img width="2409" height="3214" alt="Scan_20260905_202922" src="https://github.com/user-attachments/assets/269cf776-9823-40af-94cc-6a8764b9c6ff" />
+<img width="2408" height="3031" alt="Scan_20260905_204507" src="https://github.com/user-attachments/assets/bdd8fc0e-63f8-4324-a3d7-7bf8620612e7" />
+
 
 
 

@@ -38,6 +38,7 @@ To begin the design of the bar, I created a sketch of the circular bar with a di
 <img width="2022" height="1059" alt="Screenshot 2026-09-06 192659 (1)" src="https://github.com/user-attachments/assets/ef86e334-3323-40ba-81a6-d1459b8cb438" />
 
 **Editing the Material**
+
 <img width="830" height="602" alt="Screenshot 2026-09-06 192743" src="https://github.com/user-attachments/assets/afef0771-5240-48bd-b617-e2e2eff4b9f6" />
 
 

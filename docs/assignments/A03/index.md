@@ -22,10 +22,29 @@ We are told to design a bar which needs to have a circular cross section that ha
 
 **CAD Design**
 
-**Step 1:**
+**Step 1 (Parameters/Global Variables):**
 Before beginning the actual design of the bar I began by implementing all of my calculations/values into the global variables tab so that the values of the bar are secure and that nothing would change if I set a value wrong. I set the equations for the length and the cross sectional area inside the parameter/global variables settings making sure the set value was what the equation equaled. This allows me to easily select all the values throughout the creation of the bar, so that I don't need to type out my values, which takes up time and ends up slowing down the entire process. Below is the image of my parameters 
 
 <img width="795" height="321" alt="Screenshot 2026-09-06 195231" src="https://github.com/user-attachments/assets/fd4cbda2-cc87-4e24-bbcb-412cfbba0850" />
+
+**Step 2 (Sketch/Extrude):**
+
+To begin the design of the bar, I created a sketch of the circular bar with a diameter of 0.55in from my design decision. This is made easy by the parameters letting me select the diameter from the smart dimension and easily set the diameter. Then I selected the Boss/Extrude option letting me set the length of the bar which creates a 3D circular bar that I can then start the simulation process. But before we can do that I changed the material from a steel alloy to the required aluminum alloy, I decided to choose the 7075-O(SS) which was used by most students from past semesters projects. Below is my sketch of the part, the extrusion of the bar and the editing of the material. 
+
+**The Sketch of the Circular Bar**
+<img width="2000" height="1052" alt="Screenshot 2026-09-06 192615 (1)" src="https://github.com/user-attachments/assets/d8e1628d-168a-405a-803a-a1ddb9ca65a4" />
+
+**Extruding the Sketch of the Circular Bar**
+<img width="2022" height="1059" alt="Screenshot 2026-09-06 192659 (1)" src="https://github.com/user-attachments/assets/ef86e334-3323-40ba-81a6-d1459b8cb438" />
+
+**Editing the Material**
+<img width="830" height="602" alt="Screenshot 2026-09-06 192743" src="https://github.com/user-attachments/assets/afef0771-5240-48bd-b617-e2e2eff4b9f6" />
+
+
+ 
+
+
+
 
 
 

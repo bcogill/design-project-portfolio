@@ -76,7 +76,7 @@ After doing some calculations I found my ksi was 1.683 which is way within the 4
 **ii & iii.)** The values were very similar for being such small values, I kind of expected this due to the fact that the numbers that were placed in the parameters were similar or the same as those that I used for the calculations. I think the hand calculations could have obviously been a lot more accurate with more decimal places but for what the calculations were I would say that them being so similar is what I expected. I personally think that I would trust the FEA simulation due to the fact you can look at the stress and displacement across the entire bar with values describing the displacement/stress at certain points. 
 
 **Hand vs FEA Calculations and % Diff**
-<img width="795" height="321" alt="Screenshot 2026-09-06 195231" src="https://github.com/user-attachments/assets/fd4cbda2-cc87-4e24-bbcb-412cfbba0850" />
+<img width="2428" height="1240" alt="Scan_20260907_190916 (1)" src="https://github.com/user-attachments/assets/793120c4-5b46-41d7-bab8-ddc73a5e4dd5" />
 
 **Pin Hole Analysis**
 

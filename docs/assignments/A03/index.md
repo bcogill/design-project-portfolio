@@ -67,17 +67,26 @@ The last step of the design process and simulation is to run the simulation and 
 **Stress Map**
 
 <img width="1694" height="1060" alt="Screenshot 2026-09-06 193258" src="https://github.com/user-attachments/assets/2d7dfa08-0b87-4929-8a3e-38d4358b142e" />
-
-
- 
-
-
-
-
-
+After doing some calculations I found my ksi was 1.683 which is way within the 40ksi limit, its nice to be within this range but this means I left a lot of room to spare when it came to my design and I will note this for future assignments. 
 
 ## Decide
 
+**i.)** Below I have the calculations on the comparison between my hand calculations and what the FEA states the ksi reading was, I also included the percentage difference between the two. For the values being small and well within the ksi range, my calculation is still a fair bit off for being such a low value. This could be because the simulation goes deeper to the numbers and makes the FEA a more complicated sequence letting the value be more accurate. 
 
-## Communicate
+**ii & iii.)** The values were very similar for being such small values, I kind of expected this due to the fact that the numbers that were placed in the parameters were similar or the same as those that I used for the calculations. I think the hand calculations could have obviously been a lot more accurate with more decimal places but for what the calculations were I would say that them being so similar is what I expected. I personally think that I would trust the FEA simulation due to the fact you can look at the stress and displacement across the entire bar with values describing the displacement/stress at certain points. 
+
+**Hand vs FEA Calculations and % Diff**
+<img width="795" height="321" alt="Screenshot 2026-09-06 195231" src="https://github.com/user-attachments/assets/fd4cbda2-cc87-4e24-bbcb-412cfbba0850" />
+
+**Pin Hole Analysis**
+
+According to Peterson's Stress Concentration Factors and the Machinery Handbook, a standard transverse hole in a tension yielded bar roughly yields a theoretical stress concentration factor of Kt = 2.5 but this can also vary depending on the geometry of the bar itself. Using this given value I calculated the nominal and peak stress which mine came out to be 5.05ksi, then taking the 40ksi limit I divided the 40ksi limit by the peak stress of 5.05. This maintains a safety factor of 7.92 which would easily pass the given safety factor. (Below are the calculations)
+
+**Pin Hole Calculations**
+<img width="2408" height="556" alt="Scan_20260907_195057" src="https://github.com/user-attachments/assets/71a86316-5f06-466c-920e-a4f788952aeb" />
+
+**Lessons Learned**
+This project was a very simple process but I kept overthinking all the calculations thinking I needed to be absolutely perfect thinking that my FEA was way more correct then it actually was. I want to make sure that am doing the work correctly without stressing about needing the be perfection because we aren't perfect. The FEA value being different through me off but I knew that the simulation was more likely to be more accurate do to the given values and the parameters that we implemented into the design process. I ended up spending 6 hours on this assignment to my perfectionists antics. 
+
+**Downloadable CAD File:** [Parametric Bar.zip](https://github.com/user-attachments/files/31931033/Parametric.Bar.zip)
 

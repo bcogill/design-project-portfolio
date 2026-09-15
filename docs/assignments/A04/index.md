@@ -1,4 +1,4 @@
-# A4 – [Topic]
+# A4 – [Motor Mount]
 
 ## Objective
 
@@ -77,7 +77,8 @@ Click Here for a PDF of my work: [Assignment A4 Motor Mount.pdf](https://github.
 ## Decide
 I decided to create my mount with the intent to hold the entire motor and have clearance in mind, the mount would look a lot different without all the instructions and descriptions of the motor itself. I wanted to be similar to the given image in Appendix B that I have attached below but also make sure it met all the requirements, I looked at the linked motor itself from the website linked in the description for reference and it helped a lot of the decisions I made throughout this assignment. I think anyone can do this assignment with this info, if granted the same part/motor and design it there one way, maybe there was something you didn't like about mine and can make it better, because I believe there are ways to improve my design. 
 
-<img width="1128" height="440" alt="Screenshot 2026-09-06 103646" src="https://github.com/user-attachments/assets/db35e863-c832-4658-bd32-085890dcbbcd" />
+<img width="307" height="292" alt="Screenshot 2026-09-14 222146" src="https://github.com/user-attachments/assets/74b94114-f1da-4e39-b07e-599a762ba46c" />
+
 
 I spent 9 Hours on this Assignment. 
 

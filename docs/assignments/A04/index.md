@@ -54,7 +54,7 @@ For the wall mounting holes, I created the dimensions from the hand written work
 
 **Material Choice**
 
-<img width="824" height="604" alt="Screenshot 2026-09-14 181223" src="https://github.com/user-attachments/assets/28b68058-fa30-4806-b04c-bfae2716adb9" />
+<img width="1630" height="604" alt="Screenshot 2026-09-14 181223" src="https://github.com/user-attachments/assets/28b68058-fa30-4806-b04c-bfae2716adb9" />
 I decided to create a custom material that is made with my motor mount in mind having the yield strength, modulus elasticity, etc. Making the part feel the part, and that fit the requirements, I named it A4 PLA, PLA is a type of plastic that is create from 3D printer which should have enough strength to hold the mound firmly and cause little to no issues. Below are the values and requirements that I placed in my custom part material, it applied nicely and I think will work really well. 
 
 **CAD Model**

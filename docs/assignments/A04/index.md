@@ -57,6 +57,7 @@ For the wall mounting holes, I created the dimensions from the hand written work
 <img width="1630" height="604" alt="Screenshot 2026-09-14 181223" src="https://github.com/user-attachments/assets/28b68058-fa30-4806-b04c-bfae2716adb9" />
 I decided to create a custom material that is made with my motor mount in mind having the yield strength, modulus elasticity, etc. Making the part feel the part, and that fit the requirements, I named it A4 PLA, PLA is a type of plastic that is create from 3D printer which should have enough strength to hold the mound firmly and cause little to no issues. Below are the values and requirements that I placed in my custom part material, it applied nicely and I think will work really well. 
 
+
 **CAD Model**
 
 Here are some different angles of my CAD Model of the Motor Mount, I can now show the full mount create and assembled.
@@ -66,6 +67,11 @@ Here are some different angles of my CAD Model of the Motor Mount, I can now sho
 
 **Top Down View**
 <img width="1366" height="856" alt="Screenshot 2026-09-14 214416" src="https://github.com/user-attachments/assets/9e3aaf29-2fe8-4c79-a5e8-afa8ee516623" />
+
+Click Here to Download my CAD File: [AssignmentA4MotorMountDesign.zip](https://github.com/user-attachments/files/32219940/AssignmentA4MotorMountDesign.zip)
+Click Here for a PDF of my work: [Assignment A4 Motor Mount.pdf](https://github.com/user-attachments/files/32219983/Assignment.A4.Motor.Mount.pdf)
+
+
 
 ## Decide
 I decided to create my mount with the intent to hold the entire motor and have clearance in mind, the mount would look a lot different without all the instructions and descriptions of the motor itself. I wanted to be similar to the given image in Appendix B that I have attached below but also make sure it met all the requirements, I looked at the linked motor itself from the website linked in the description for reference and it helped a lot of the decisions I made throughout this assignment. I think anyone can do this assignment with this info, if granted the same part/motor and design it there one way, maybe there was something you didn't like about mine and can make it better, because I believe there are ways to improve my design. 

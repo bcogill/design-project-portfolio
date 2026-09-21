@@ -11,7 +11,7 @@
 
 **Description:**
 
-We are told to create a detaied design bracket, using the concept design in Appendix B, to hold a horizontal force applied symmetrically by a strap outline in resource #1. The bracket’s dimensions are designed with different fit classes. Each dimension of the T beam is part of the fit with these mind:
+We are told to create a detaied design bracket, using the concept design in Appendix C, to hold a horizontal force applied symmetrically by a strap outline in resource #1. The bracket’s dimensions are designed with different fit classes. Each dimension of the T beam is part of the fit with these mind:
 
 “a” intention for use where accuracy is not essential
 
@@ -19,15 +19,19 @@ We are told to create a detaied design bracket, using the concept design in Appe
 
 “c” is where accurate location and minimum play is desired
 
+**Appendix C**
+
+<img width="655" height="427" alt="Screenshot 2026-09-21 190912" src="https://github.com/user-attachments/assets/3dfc9f5e-bc95-472d-8123-e8c15e45b96c" />
+
 ## Analyze
 
 **Step 1: Stress Analysis**
 
-We are told to conduct a stress analysis on every section of the part given to us in Appendix B, which you can find above. We must create a FBD of every section of the part, displaying the forces and dimensions of our part making sure to capture all the designs of the part and attached sections to other sections. List all the knowns and unknowns for each section of the overall design, Appendix A and the description of the assignment give us most of knowns throughout this project. Lastly we must solve for the stress symbolically/algebraically and numerically using the algebraically solved solutions, using the given/solved values to fill in the information. Below is are my work for every feature and the Stress Analysis to go along with it, I will talk about each one in short form paragraphs, including a intro to the assignment with the material, dimensions given, and the Appendix B concept design hand drawn.
+We are told to conduct a stress analysis on every section of the part given to us in Appendix C, which you can find above. We must create a FBD of every section of the part, displaying the forces and dimensions of our part making sure to capture all the designs of the part and attached sections to other sections. List all the knowns and unknowns for each section of the overall design, Appendix A and the description of the assignment give us most of knowns throughout this project. Lastly we must solve for the stress symbolically/algebraically and numerically using the algebraically solved solutions, using the given/solved values to fill in the information. Below is are my work for every feature and the Stress Analysis to go along with it, I will talk about each one in short form paragraphs, including a intro to the assignment with the material, dimensions given, and the Appendix C concept design hand drawn.
 
 **Intro:**
 
-I wanted to list all the important information before I began to start work on either the Stress or Stiffness Analysis. This images contains the material I have chosen out of the 3 options presented to us, I also listed the materials properties as not to get confused with the other materials. I decided to draw the Appendix B concept design that was given to us to use as inspiration. Lastly I listed the given dimensions from the description that were given to us. 
+I wanted to list all the important information before I began to start work on either the Stress or Stiffness Analysis. This images contains the material I have chosen out of the 3 options presented to us, I also listed the materials properties as not to get confused with the other materials. I decided to draw the Appendix C concept design that was given to us to use as inspiration. Lastly I listed the given dimensions from the description that were given to us. 
 <img width="2396" height="1590" alt="Scan_20260920_231652" src="https://github.com/user-attachments/assets/47793653-13a4-40a9-9a88-8b694f36e1d2" />
 
 **Feature A:**
@@ -47,7 +51,7 @@ For Feature C, I decided to include some invisible lines in the 3D model, to sho
 
 **Feature D:**
 
-Feature D is the height section of the smaller slot area, letting us use the space as a good addition to the FBD, once again using invisible lines to describe where the section of the part is and the dimensions of the section. Creating a flatten FBD of the section from Appendix B where the CAD Model has the section D placed. Quickly solving for the stress analysis algebraically and numerically using my steps from previous features. 
+Feature D is the height section of the smaller slot area, letting us use the space as a good addition to the FBD, once again using invisible lines to describe where the section of the part is and the dimensions of the section. Creating a flatten FBD of the section from Appendix C where the CAD Model has the section D placed. Quickly solving for the stress analysis algebraically and numerically using my steps from previous features. 
 <img width="2428" height="1605" alt="Scan_20260920_231949" src="https://github.com/user-attachments/assets/285f9da6-bd86-4071-ba1d-b1bfb4b181e3" />
 
 **Feature E:**
@@ -76,7 +80,7 @@ Since I described my process and everything for the stress analysis Im just gonn
 
 **Step 3: Multiview Sketches (Stress Analysis & Stiffness Analysis)**
 
-The Multiview sketches below varied, there were differences between the Stress and Stiffness that you can see visibly. For one the stiffness analysis slot for the bracket is a bit more thin, do to the height and length of that section to differing from that of the stress analysis. I tried to draw these as accurate as possible making sure to use the FBD's and Appendix B has references to help me draw them sum-what ok. 
+The Multiview sketches below varied, there were differences between the Stress and Stiffness that you can see visibly. For one the stiffness analysis slot for the bracket is a bit more thin, do to the height and length of that section to differing from that of the stress analysis. I tried to draw these as accurate as possible making sure to use the FBD's and Appendix C has references to help me draw them sum-what ok. 
 
 **Stress Analysis (Top, Front, Side, and Isometric Views)**
 <img width="2408" height="1425" alt="Scan_20260921_184802" src="https://github.com/user-attachments/assets/9004be5d-73f0-4254-b43b-5470797ab9dc" />

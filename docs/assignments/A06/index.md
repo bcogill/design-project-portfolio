@@ -11,6 +11,25 @@ As part of this assignment, we will be needing to generate a comprehensive solid
 
 **Step 1, Parametric Feature Designs:**
 
+**Part A:**
+
+<img width="906" height="588" alt="Screenshot 2026-09-28 140231" src="https://github.com/user-attachments/assets/fe6273ab-1e08-4719-89e5-93589ff58d80" />
+
+**Part B:**
+
+<img width="1011" height="766" alt="Screenshot 2026-09-28 173057" src="https://github.com/user-attachments/assets/9f5be006-b814-49d3-9840-f0c1330ef8e2" />
+
+**Part C:**
+
+<img width="1141" height="589" alt="Screenshot 2026-09-28 173114" src="https://github.com/user-attachments/assets/b756c23d-a042-4f25-a0d3-89dd3d3f9e2b" />
+
+**Part D:**
+
+<img width="995" height="797" alt="Screenshot 2026-09-28 173141" src="https://github.com/user-attachments/assets/4c3223b2-dccc-463c-ae20-9d532aaeff02" />
+
+**Part E**
+
+<img width="987" height="531" alt="Screenshot 2026-09-28 173201" src="https://github.com/user-attachments/assets/971985f5-0023-4374-9808-21daf0951917" />
 
 
 
@@ -23,6 +42,17 @@ As part of this assignment, we will be needing to generate a comprehensive solid
 
 
 
+
+
+
+
+
+
+
+
+
+
+Download My CAD File Here: [a6bracketdesign.prt.zip](https://github.com/user-attachments/files/32775527/a6bracketdesign.prt.zip)
 
 
 ## Decide

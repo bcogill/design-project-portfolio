@@ -73,7 +73,9 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 
 **Design 3**
 
-<img width="778" height="717" alt="Screenshot 2026-10-20 173701" src="https://github.com/user-attachments/assets/531f1c89-7a53-4973-8561-ad1066bb2c18" />
+<img width="859" height="756" alt="Screenshot 2026-10-21 173037 (1)" src="https://github.com/user-attachments/assets/5c0b449a-920a-4d5a-a4aa-2db00ead7614" />
+<img width="1381" height="788" alt="Screenshot 2026-10-21 172619 (1)" src="https://github.com/user-attachments/assets/5c43a417-27e7-421c-9e77-2a3add07ef72" />
+
 
 
 
@@ -87,7 +89,7 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 
 [A7BracketDesign2fea.prt.zip](https://github.com/user-attachments/files/33786390/A7BracketDesign2fea.prt.zip)
 
-[A7BracketDesign3fea.prt.zip](https://github.com/user-attachments/files/33786394/A7BracketDesign3fea.prt.zip)
+[A7BracketDesign3fea.prt (2).zip](https://github.com/user-attachments/files/33790867/A7BracketDesign3fea.prt.2.zip)
 
 ## Decide
 

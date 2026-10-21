@@ -29,10 +29,12 @@ For the first test, I decided to use my original design to see where it stood fr
 <img width="877" height="768" alt="Screenshot 2026-10-20 192236" src="https://github.com/user-attachments/assets/3ad951ca-cee6-437a-94c4-5526169f71d3" />
 
 **Mesh 1:**
+
 <img width="1312" height="768" alt="Screenshot 2026-10-20 192651" src="https://github.com/user-attachments/assets/7d26694e-189e-4e2c-9ef2-dcac2d99c4d0" />
 <img width="751" height="437" alt="Screenshot 2026-10-20 195956" src="https://github.com/user-attachments/assets/3552a8a5-e80a-4fab-b54b-0fb42105853b" />
 
 **Mesh 2:**
+
 <img width="642" height="408" alt="Screenshot 2026-10-20 193811" src="https://github.com/user-attachments/assets/6ed52603-c183-4b99-9c04-06f70cb8ef2e" />
 <img width="742" height="462" alt="Screenshot 2026-10-20 194248" src="https://github.com/user-attachments/assets/cf5222a2-fd89-4200-9036-5d63d6781477" />
 
@@ -42,6 +44,7 @@ For the first test, I decided to use my original design to see where it stood fr
 <img width="757" height="448" alt="Screenshot 2026-10-20 194646" src="https://github.com/user-attachments/assets/f4960db2-59cb-43a7-8da9-edf8bd7ded2e" />
 
 **Design 1 Convergence Calculations for the Meshes.**
+
 <img width="2424" height="2103" alt="Scan_20261020_202239" src="https://github.com/user-attachments/assets/31fcf30b-5561-4bd2-8173-2696a48083fa" />
 
 **Design 2**
@@ -50,18 +53,23 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 <img width="620" height="628" alt="Screenshot 2026-10-20 173916" src="https://github.com/user-attachments/assets/6bc3833d-6a15-487a-ae70-5c49cd937adb" />
 
 **Mesh 1:**
+
 <img width="711" height="517" alt="Screenshot 2026-10-20 210711" src="https://github.com/user-attachments/assets/be374220-937b-407f-9586-3a5aae5edd6c" />
 <img width="631" height="487" alt="Screenshot 2026-10-20 210839" src="https://github.com/user-attachments/assets/f5a13bbf-5bd3-48f4-a5ee-6d17eeca625d" /> 
 
 **Mesh 2:**
+
 <img width="710" height="445" alt="Screenshot 2026-10-20 212608" src="https://github.com/user-attachments/assets/cd9806aa-d79f-491d-a505-a308d82dcc99" />
 <img width="631" height="412" alt="Screenshot 2026-10-20 211646" src="https://github.com/user-attachments/assets/efa180b2-8815-4bfa-bf51-be9518af8e8c" />
 
 **Mesh 3:** 
+
 <img width="700" height="458" alt="Screenshot 2026-10-20 213610" src="https://github.com/user-attachments/assets/50bafd74-9ce9-48e4-bda8-921da3b9ae5a" />
 <img width="626" height="431" alt="Screenshot 2026-10-20 213632" src="https://github.com/user-attachments/assets/eb183307-7547-45a8-96c3-29e96e93362f" />
 
 **Design 2 Convergence Calculations for Meshes**
+
+<img width="2408" height="1820" alt="Scan_20261020_223032" src="https://github.com/user-attachments/assets/f98aeb0f-8551-42c5-87ac-6e70456c1e21" />
 
 
 

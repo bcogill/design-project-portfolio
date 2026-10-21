@@ -35,7 +35,7 @@ For the first test, I decided to use my original design to see where it stood fr
 <img width="742" height="462" alt="Screenshot 2026-10-20 194248" src="https://github.com/user-attachments/assets/cf5222a2-fd89-4200-9036-5d63d6781477" />
 
 **Mesh 3:** 
-<img width="1300" height="770" alt="20261020_200538(1)" src="https://github.com/user-attachments/assets/d736beb3-a5f9-4c52-9f51-07b771792513" />
+<img width="623" height="388" alt="Screenshot 2026-10-20 202833" src="https://github.com/user-attachments/assets/20e68eb5-05dc-469e-b279-7c133cc536c8" />
 <img width="757" height="448" alt="Screenshot 2026-10-20 194646" src="https://github.com/user-attachments/assets/f4960db2-59cb-43a7-8da9-edf8bd7ded2e" />
 
 **Convergence Calculations for the Meshes.**

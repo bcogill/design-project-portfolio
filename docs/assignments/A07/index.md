@@ -73,10 +73,11 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 
 **Design 3**
 
+For Design 3, I started by extending the back plate letting it cover the entire back end of the part, this will instill that the top slot is held up securely and will increase the overall strength of the bracket. I then added a front panel that will help support the front end of the part, counter balancing the structural integrity of the bracket. I decided to make some major changes this time around for my final design, I creating these rigid structures helped with the stress and deformation that was occurring at sections A, and adding to section B only made it more resistant. With all of these changes and additions the 600lb load that has been applied to the bracket is now barely causing any deformation or stress to the body of the part. This let the part fall within the 7% convergence limit and should not fail, within this range. 
 <img width="859" height="756" alt="Screenshot 2026-10-21 173037 (1)" src="https://github.com/user-attachments/assets/5c0b449a-920a-4d5a-a4aa-2db00ead7614" />
 <img width="1381" height="788" alt="Screenshot 2026-10-21 172619 (1)" src="https://github.com/user-attachments/assets/5c43a417-27e7-421c-9e77-2a3add07ef72" />
 
-
+**Mesh 1:**
 
 
 

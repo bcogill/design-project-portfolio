@@ -71,6 +71,9 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 
 <img width="2408" height="1820" alt="Scan_20261020_223032" src="https://github.com/user-attachments/assets/f98aeb0f-8551-42c5-87ac-6e70456c1e21" />
 
+**Design 3**
+
+<img width="778" height="717" alt="Screenshot 2026-10-20 173701" src="https://github.com/user-attachments/assets/531f1c89-7a53-4973-8561-ad1066bb2c18" />
 
 
 
@@ -78,12 +81,19 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 
 
 
+**CAD Files**
 
+[A7BracketDesign1fea.prt.zip](https://github.com/user-attachments/files/33786368/A7BracketDesign1fea.prt.zip)
 
+[A7BracketDesign2fea.prt.zip](https://github.com/user-attachments/files/33786390/A7BracketDesign2fea.prt.zip)
 
+[A7BracketDesign3fea.prt.zip](https://github.com/user-attachments/files/33786394/A7BracketDesign3fea.prt.zip)
 
 ## Decide
 
+**Reflection/Lessons Learned**
+
+This project showed us how to take our bracket design and preform load simulation to test our parts, max stress, displacement, and safety factor. I learned that when you make slight changes to your design, it can affect the design quite a bit especially when its something as simple as a added chamfer, rounded edge, or changing the length of a section on the part. These changes cause variations in your simulations changing the max stress, displacement, etc. But you can limit the errors in your designs, making tiny tweaks to improve on the design you original were going for. The most important lessons learned during this project was the mesh simulations and convergence calculations, repeating the mesh simulations with different types helps to understand where your model stands in stress, displacement, etc. The calculations were simple to solve but checking for the error % and double checking work can take some time to make sure everything is correct. I felt very good about this project and that finding the max stress, displacement, safety factor, and designs were important in improving on the overall brackets design and limitations. 
 
 ## Communicate
 

@@ -41,7 +41,7 @@ For the first test, I decided to use my original design to see where it stood fr
 <img width="623" height="388" alt="Screenshot 2026-10-20 202833" src="https://github.com/user-attachments/assets/20e68eb5-05dc-469e-b279-7c133cc536c8" />
 <img width="757" height="448" alt="Screenshot 2026-10-20 194646" src="https://github.com/user-attachments/assets/f4960db2-59cb-43a7-8da9-edf8bd7ded2e" />
 
-**Convergence Calculations for the Meshes.**
+**Design 1 Convergence Calculations for the Meshes.**
 <img width="2424" height="2103" alt="Scan_20261020_202239" src="https://github.com/user-attachments/assets/31fcf30b-5561-4bd2-8173-2696a48083fa" />
 
 **Design 2**
@@ -54,8 +54,18 @@ For design number 2, I decided to add a rounded edge to the cylinder and backpla
 <img width="631" height="487" alt="Screenshot 2026-10-20 210839" src="https://github.com/user-attachments/assets/f5a13bbf-5bd3-48f4-a5ee-6d17eeca625d" /> 
 
 **Mesh 2:**
-<img width="710" height="441" alt="Screenshot 2026-10-20 211621" src="https://github.com/user-attachments/assets/87121763-09fb-48a5-8d24-85f42e47e1c5" />
+<img width="710" height="445" alt="Screenshot 2026-10-20 212608" src="https://github.com/user-attachments/assets/cd9806aa-d79f-491d-a505-a308d82dcc99" />
 <img width="631" height="412" alt="Screenshot 2026-10-20 211646" src="https://github.com/user-attachments/assets/efa180b2-8815-4bfa-bf51-be9518af8e8c" />
+
+**Mesh 3:** 
+<img width="700" height="458" alt="Screenshot 2026-10-20 213610" src="https://github.com/user-attachments/assets/50bafd74-9ce9-48e4-bda8-921da3b9ae5a" />
+<img width="626" height="431" alt="Screenshot 2026-10-20 213632" src="https://github.com/user-attachments/assets/eb183307-7547-45a8-96c3-29e96e93362f" />
+
+**Design 2 Convergence Calculations for Meshes**
+
+
+
+
 
 
 

@@ -78,8 +78,14 @@ For Design 3, I started by extending the back plate letting it cover the entire 
 <img width="1381" height="788" alt="Screenshot 2026-10-21 172619 (1)" src="https://github.com/user-attachments/assets/5c43a417-27e7-421c-9e77-2a3add07ef72" />
 
 **Mesh 1:**
+<img width="707" height="450" alt="Screenshot 2026-10-21 181927" src="https://github.com/user-attachments/assets/96d3740e-c71a-4c08-8961-0a517e8e4e55" />
+<img width="702" height="466" alt="Screenshot 2026-10-21 182424" src="https://github.com/user-attachments/assets/b340c390-6671-4734-ace6-269cbf695874" />
 
+**Mech 2:**
+<img width="712" height="447" alt="Screenshot 2026-10-21 183053" src="https://github.com/user-attachments/assets/7ac30578-87cd-48d9-8ea9-1666354dd516" />
+<img width="822" height="506" alt="Screenshot 2026-10-21 183309" src="https://github.com/user-attachments/assets/e2492a7f-5c2f-41e1-beea-5ed2fef36b8d" />
 
+**Design 3 Convergence Calculations for Meshes:**
 
 
 

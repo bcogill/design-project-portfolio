@@ -28,14 +28,14 @@ For the first test, I decided to use my original design to see where it stood fr
 
 **Mesh 1:**
 <img width="1312" height="768" alt="Screenshot 2026-10-20 192651" src="https://github.com/user-attachments/assets/7d26694e-189e-4e2c-9ef2-dcac2d99c4d0" />
-<img width="1322" height="778" alt="Screenshot 2026-10-20 193123" src="https://github.com/user-attachments/assets/8a03b0eb-584f-452f-ac5c-5ba3012dd33e" />
+<img width="751" height="437" alt="Screenshot 2026-10-20 195956" src="https://github.com/user-attachments/assets/3552a8a5-e80a-4fab-b54b-0fb42105853b" />
 
 **Mesh 2:**
 <img width="642" height="408" alt="Screenshot 2026-10-20 193811" src="https://github.com/user-attachments/assets/6ed52603-c183-4b99-9c04-06f70cb8ef2e" />
 <img width="742" height="462" alt="Screenshot 2026-10-20 194248" src="https://github.com/user-attachments/assets/cf5222a2-fd89-4200-9036-5d63d6781477" />
 
 **Mesh 3:** 
-<img width="676" height="397" alt="Screenshot 2026-10-20 194625" src="https://github.com/user-attachments/assets/06b9bedd-548e-4571-bbb0-54b1e7c97609" />
+<img width="1300" height="770" alt="20261020_200538(1)" src="https://github.com/user-attachments/assets/d736beb3-a5f9-4c52-9f51-07b771792513" />
 <img width="757" height="448" alt="Screenshot 2026-10-20 194646" src="https://github.com/user-attachments/assets/f4960db2-59cb-43a7-8da9-edf8bd7ded2e" />
 
 **Convergence Calculations for the Meshes.**

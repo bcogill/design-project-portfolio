@@ -12,6 +12,7 @@
 - Optimize the design by modifying geometry to enhance performance.
 - Document the entire process with images, calculations, and insights.
 - Reflect on key engineering lessons learned and time spent.
+
 <img width="693" height="217" alt="Screenshot 2026-10-20 190206" src="https://github.com/user-attachments/assets/e086c4d9-1dbb-4a8d-aa53-1e8d97dd41a7" />
 
 **Description:**
@@ -89,6 +90,10 @@ For Design 3, I started by extending the back plate letting it cover the entire 
 
 <img width="2408" height="1300" alt="Scan_20261021_200646" src="https://github.com/user-attachments/assets/1b6d2edc-162c-4471-a8fa-aac2ea1e096a" />
 
+**Tabulated Convergence Table:**
+
+<img width="1377" height="475" alt="Screenshot 2026-10-21 204608" src="https://github.com/user-attachments/assets/40a9b8a3-0abb-47e8-8423-a0d376a6c765" />
+
 **CAD Files**
 
 [A7BracketDesign1fea.prt.zip](https://github.com/user-attachments/files/33786368/A7BracketDesign1fea.prt.zip)
@@ -105,3 +110,4 @@ This project showed us how to take our bracket design and preform load simulatio
 
 ## Communicate
 
+I completed this assignment in 7 hours. 

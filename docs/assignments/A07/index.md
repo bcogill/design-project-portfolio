@@ -23,6 +23,10 @@ Your task is simply to create a high stiff, high strength, and lightweight compo
 
 ## Analyze
 
+**Material Properties**
+
+<img width="552" height="785" alt="Screenshot 2026-10-22 054838" src="https://github.com/user-attachments/assets/8a3bcff8-6303-4156-84ad-fda6faceaf03" />
+
 **Design 1**
 
 For the first test, I decided to use my original design to see where it stood from the beginning, wanting to get to that 7% convergence. I began by using a 600lb load and applied it to the cylinder of the bracket and the back plate holding up the top brace of the bracket. I completed 3 FEA simulations on the part using fine/course mesh, course mesh and fine mesh, I was able to get Mesh's 2 and 3 within the 7% convergence. This means I need to try some other designs to better my brackets performance. 

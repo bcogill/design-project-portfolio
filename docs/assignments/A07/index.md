@@ -87,8 +87,7 @@ For Design 3, I started by extending the back plate letting it cover the entire 
 
 **Design 3 Convergence Calculations for Meshes:**
 
-
-
+<img width="2408" height="1300" alt="Scan_20261021_200646" src="https://github.com/user-attachments/assets/1b6d2edc-162c-4471-a8fa-aac2ea1e096a" />
 
 **CAD Files**
 

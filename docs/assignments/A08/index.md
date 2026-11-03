@@ -1,4 +1,4 @@
-# A8 – Gears
+# A8 – Gearbox Design
 
 ## Objective
 
@@ -65,6 +65,7 @@ For the Journal Bearings Thickness, I made sure to list the knowns and unknown, 
 Since McMaster-Carr provides downloadable models for the gear, pinion, and journal bearings, my only main tasks were to design the shafts and housing. Designing the shafts was fairly simple since I just used the provided diameters and lengths. I also added chamfers to the shafts to help with the press fit. For the housing, I used the dimensions of the gear, pinion, and bearings to create a design that would fit all the parts properly and keep everything in place. For the housing connection I had the option of using either bolts or a snap fit, I decided to go with a snap fit because the gear and pinion were fairly small and using bolts would have been unnecessary. This would also help reduce the amount of material needed during manufacturing. Once all the parts were finished, I used SolidWorks Assembly to put everything together (My assembly file is not working when someone downloads it). To mate the gear and pinion, I used the mate tool with a 24:9 ratio. All these dimensions in SolidWorks were in Imperial units (in).
 
 **Equations/Properties**
+
 <img width="787" height="549" alt="Screenshot 2026-11-02 172508" src="https://github.com/user-attachments/assets/be991fd2-ee88-4e7c-80f9-971c028794dd" />
 
 **Input Shaft**
@@ -113,12 +114,17 @@ The second side of the Gearbox is a reflections of that first side and makes sur
 <img width="662" height="881" alt="Screenshot 2026-11-02 211714" src="https://github.com/user-attachments/assets/7202a839-8519-4a45-b0a8-c60e34d4dcd4" />
 <img width="477" height="487" alt="Screenshot 2026-11-02 205530" src="https://github.com/user-attachments/assets/8a910177-2973-42a8-91cb-372e0c12d05c" />
 
-**Reflection/New Information**
+**Downloadable CAD File and Handwritten Calculations PDF**
 
+[A8 Gearbox CAD Design.zip](https://github.com/user-attachments/files/34300385/A8.Gearbox.CAD.Design.zip)    **Assembly File does not work**
 
+[Handwritten Calculations_Work.pdf](https://github.com/user-attachments/files/34300656/Handwritten.Calculations_Work.pdf)
 
 ## Decide
 
+**Reflection/Lessons Learned**
 
-## Communicate
+This project took me about 7 hours to fully complete. I want to start this reflection with this was one of the most simple projects with the McMaster-Carr system letting me download some of those must need parts, but I still worked very hard to make sure that everything for this assignment was in order and done correctly. Working through the shafts and gearbox design was very challenging given that we needed to shape it to McMaster-Carr gear, pinion, and bearings. Even with this challenging I took my time and made it through the entire process. One main lesson I learned while working through the calculations, I noticed I was a little closer to the limits/conditions that were provided but I did this because previous assignments I had done had been well within these margins and those could have been more likely to fail. So that's why I decided to be within the limits where I was to far off either side of the spectrum so that I am more comfortable with the results.  
+
+
 

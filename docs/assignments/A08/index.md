@@ -44,7 +44,7 @@ Making my journal bearings selections, I first looked through the options in the
 **Input Journal Bearing Calculations**
 
 I mostly did the same thing for the bearings as the shaft designs listing the knowns and unknowns, and I focused on all the required parts of the assignments and solved for the unknowns algebraically and numerically making sure to break down ever part of the solutions. Creating the FBD was simple, making sure to add the As and Fr abbreviations to the diagrams.  
-<img width="2408" height="1600" alt="Scan_20261102_114953" src="https://github.com/user-attachments/assets/1679290d-3030-401c-9df7-069d5e4e4290" />
+<img width="2408" height="1371" alt="Scan_20261102_115102" src="https://github.com/user-attachments/assets/5893bf77-e807-4d17-bf55-20f64b1a6c49" />
 
 **Output Journal Bearing Calculations**
 
@@ -54,7 +54,7 @@ For the output journal bearings, I recreated the FBD and made sure to change aro
 **Bearing Thickness**
 
 For the Journal Bearings Thickness, I made sure to list the knowns and unknown, starting with the input using the Machinery Handbook to find the right equation for 't' then taking the known values, plugged them in to the equation to get my thickness value for the input. The McMaster-Carr journal bearing best suited for the application for the input was **SAE81419368T98**. Then working on the output thickness was the same concept just using the values need to solve for the output thickness itself. I made sure the FBD represented these results and were the forces were acting on the bearing. The McMaster journal bearing that was selected and a best fit was the **SAE8419368T11**. 
-<img width="2408" height="1371" alt="Scan_20261102_115102" src="https://github.com/user-attachments/assets/5893bf77-e807-4d17-bf55-20f64b1a6c49" />
+<img width="2408" height="1600" alt="Scan_20261102_114953" src="https://github.com/user-attachments/assets/1679290d-3030-401c-9df7-069d5e4e4290" />
 
 **Hand-Drawn Design**
 

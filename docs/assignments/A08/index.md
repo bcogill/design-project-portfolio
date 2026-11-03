@@ -1,6 +1,6 @@
 # A8 – Gearbox Design
 
-## Objective
+**## Objective**
 
 - Design a gearbox that can be assembled and disassembled.
 - Analyze and size input and output shafts for strength.
@@ -21,7 +21,7 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 <img width="693" height="522" alt="Screenshot 2026-11-01 202403" src="https://github.com/user-attachments/assets/156a1726-c39e-45c1-a324-1284a92e87c1" />
 
-## Analyze
+**## Analyze**
 
 **The Input and Output Shaft Design Calculations**
 
@@ -120,7 +120,7 @@ The second side of the Gearbox is a reflections of that first side and makes sur
 
 [Handwritten Calculations_Work.pdf](https://github.com/user-attachments/files/34300656/Handwritten.Calculations_Work.pdf)
 
-## Decide
+**## Decide**
 
 **Reflection/Lessons Learned**
 

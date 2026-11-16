@@ -82,8 +82,25 @@ For the 3D modeling, I downloaded links for the frame, flange nuts, and leadscre
 <img width="1280" height="755" alt="A10 Frame Design" src="https://github.com/user-attachments/assets/c33df735-abb3-4268-903b-fe14eb74ced7" />
 <img width="1280" height="765" alt="A10 3D Model" src="https://github.com/user-attachments/assets/a4a0fa73-567f-4ca0-90ab-9e9435afada7" />
 
+**Flange**
+
+<img width="1280" height="755" alt="A10 Flange Nut" src="https://github.com/user-attachments/assets/cbb1b236-166b-4ffc-9535-f1ce92289d49" />
+
+**LeadScrew**
+
+<img width="1280" height="760" alt="A10 Leadscrew" src="https://github.com/user-attachments/assets/70765673-f05d-4548-bf53-727092afadd2" />
+
+
 Download the 3D model using this link.
 [Lead Screw Design Assembly.zip](https://github.com/user-attachments/files/34943499/Lead.Screw.Design.Assembly.zip)
 
 ## Communicate
+
+**Lesson Learned**
+
+For this assignment, I learned the importance of managing my time and double-checking the values and calculations I found. This was my first group assignment where the work was split into three different sections, and each section depended on the others being completed correctly. Because of this, it was important to make sure the equations and values I used were correct so that I did not cause extra work for another group member. I also learned more about 3D modeling, especially when working with assemblies. When I downloaded the parts, I needed to change their lengths, but trying to do this directly in the assembly caused some issues because changing one part also changed the other parts that used the same original file. To fix this, I created two separate parts with the correct lengths and then added them to the assembly, which worked without any problems. Overall, I spent about 6 hours completing my portion of the assignment.
+
+
+
+
 

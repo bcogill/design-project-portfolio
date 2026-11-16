@@ -23,9 +23,9 @@ For the lead screw system, we selected the 3/4-5 ACME bronze flange nut from McM
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | :---: | :---: | :--- | :---: | :---: | :--- |
-| 1 | 2 | 3/4"-5, Zinc-Plated Carbon Steel Acme Lead Screw | $35.49 | **$70.98** | https://mcmaster.com |
-| 2 | 2 | 3/4"-5, 932 Bearing Bronze Acme Flange Nut | $160.09 | **$320.18** | https://mcmaster.com |
-| 3 | 1 | Rectangle, 40 Series, T-Slot Framing System - 804T48 - Grainger | $245.87 | **$245.87** | [Rectangle, 40 Series, T-Slot Framing System - 804T48\|40-4080-3M - Grainger](https://grainger.com) |
+| 1 | 2 | 3/4"-5, Zinc-Plated Carbon Steel Acme Lead Screw | $35.49 | **$70.98** | https://www.mcmaster.com/93255A233/ |
+| 2 | 2 | 3/4"-5, 932 Bearing Bronze Acme Flange Nut | $160.09 | **$320.18** | https://www.mcmaster.com/95120A123/ |
+| 3 | 1 | Rectangle, 40 Series, T-Slot Framing System - 804T48 - Grainger | $245.87 | **$245.87** | Rectangle, 40 Series, T-Slot Framing System - 804T48|40-4080-3M - Grainger |
 | **TOTAL MATERIAL COST** | | | | **$637.03** | |
 
 

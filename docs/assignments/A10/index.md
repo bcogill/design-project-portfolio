@@ -92,6 +92,7 @@ For the 3D modeling, I downloaded links for the frame, flange nuts, and leadscre
 
 
 Download the 3D model using this link.
+
 [Lead Screw Design Assembly.zip](https://github.com/user-attachments/files/34943499/Lead.Screw.Design.Assembly.zip)
 
 ## Communicate

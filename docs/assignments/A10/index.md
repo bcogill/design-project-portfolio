@@ -97,7 +97,7 @@ Download the 3D model using this link.
 
 ## Communicate
 
-**Lesson Learned**
+**Lessons Learned**
 
 For this assignment, I learned the importance of managing my time and double-checking the values and calculations I found. This was my first group assignment where the work was split into three different sections, and each section depended on the others being completed correctly. Because of this, it was important to make sure the equations and values I used were correct so that I did not cause extra work for another group member. I also learned more about 3D modeling, especially when working with assemblies. When I downloaded the parts, I needed to change their lengths, but trying to do this directly in the assembly caused some issues because changing one part also changed the other parts that used the same original file. To fix this, I created two separate parts with the correct lengths and then added them to the assembly, which worked without any problems. Overall, I spent about 6 hours completing my portion of the assignment.
 
